@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.1.0",
+  "latest_version": "2.0.0",
   "min_allowed_version": "2.0.0",
   "messages": {
-    "block": "🚫 This version is no longer supported. Please update immediately.",
-    "warn": "⚠️ A new version is available with improvements."
+    "block": "🚫 This version is no longer supported (v2.0+ required).\nPlease update immediately to continue using the application.",
+    "warn": "📢 A newer version is available.\nUpdating is recommended for performance improvements and bug fixes."
   }
 }
